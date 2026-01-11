@@ -29,3 +29,13 @@ Frontend: React.js / TypeScript
 Styling: Tailwind CSS
 
 Deployment: Vercel
+
+## How to Run Locally:
+
+Clone the repo.
+
+Copy .env.example to a new file named .env.
+
+Add your Supabase keys to the .env file.
+
+    Run npm install and npm run dev.
